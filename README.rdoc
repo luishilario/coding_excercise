@@ -9,6 +9,7 @@ like GBP, PHP, and USD as well. We'd like to use the exchange rates published
 here: https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml
 
 Your task would be to:
+* upgrade rails to v5.x
 * get the data about exchange rates
 * provide a method in the model to show price in different currencies
 * adjust the views to add a possibility to switch currencies dynamically (without a page reload)
